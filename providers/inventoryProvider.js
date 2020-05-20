@@ -15,6 +15,7 @@ type Product {
 }
 */
 
+// getInventory() should get inventory from a API and it should return like ./inventory.js
 async function getInventory() {
   return new Promise((resolve, reject) => {
     // const inventory = API.get(apiUrl)
