@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby JAMstack ECommerce Professional`,
-    description: `Get up and running with your next E Commerce Website.`,
-    author: `@dabit3`,
+    title: `ODEE`,
+    description: `Overcoming Doubters, Excelling Endlessly`,
+    author: `@itsobinna`,
   },
   plugins: [
     {
@@ -36,8 +36,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `The ODEE Store`,
+        short_name: `ODEE`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

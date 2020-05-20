@@ -12,6 +12,8 @@ class ViewInventory extends React.Component {
     editingIndex: []
   }
   componentDidMount() {
+    console.log('the ViewInventory component loaded');
+    
     this.fetchInventory()
   }
   fetchInventory = async() => {

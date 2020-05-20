@@ -147,3 +147,11 @@ await Promise.all(
 To see an example of how to process payments server-side with stripe, check out the [Lambda function in the snippets folder](https://github.com/jamstack-cms/jamstack-ecommerce/blob/master/snippets/lambda.js).
 
 Also, consider verifying totals by passing in an array of IDs into the function, calculating the total on the server, then comparing the totals to check and make sure they match.
+
+### TODOs
+
+- Add in the Firebase Gatsby Plugin for Admin Login
+- Add in real Stripe Key and test
+- Add in Airtable and use as inventoryProvider
+- Add in inventory to Airtable and Test
+- TEST TEST TEST
